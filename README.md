@@ -13,9 +13,6 @@ respositorio para comandos de git
 
 :feet:
 :paw_prints:
-:feet:
-:paw_prints:
-:chicken:
 :chicken:
 
-Link del Proyecto: [Filminas Lab II] (https://ucc-labcompu2.github.io/filminas/U2_git_avanzado.html#/)
+Link para info: [Filminas Lab II] (https://ucc-labcompu2.github.io/filminas/U2_git_avanzado.html#/)
